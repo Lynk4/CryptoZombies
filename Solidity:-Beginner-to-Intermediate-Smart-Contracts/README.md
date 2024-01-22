@@ -15,11 +15,11 @@ https://cryptozombies.io/en/solidity
 
  ---
 
- ## lesson2 
+ ## Lesson 2 - Zombies Attack Their Victims
 
- lesson2 conataibs two files 
+ Lesson 2 conatains two files:
  
- - zombiefactory.sol
- - zombiefeeding.sol
+ - [zombiefactory.sol](https://github.com/Lynk4/CryptoZombies/blob/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/zombiefactory.sol)
+ - [zombiefeeding.sol](https://github.com/Lynk4/CryptoZombies/blob/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/zombiefeeding.sol)
 
  ---

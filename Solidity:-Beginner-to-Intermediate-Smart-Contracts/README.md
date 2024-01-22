@@ -7,7 +7,7 @@ https://cryptozombies.io/en/solidity
 
 ---
 
-## [Lesson 1 - Making the Zombie Factory ](https://github.com/Lynk4/CryptoZombies/blob/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/Making%20the%20Zombie%20Factory.sol)
+## [Lesson 1 - Making the Zombie Factory ](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson1)
 
 
 
@@ -15,11 +15,6 @@ https://cryptozombies.io/en/solidity
 
  ---
 
- ## Lesson 2 - Zombies Attack Their Victims
+ ## [Lesson 2 - Zombies Attack Their Victims](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson2)
 
- Lesson 2 conatains two files:
- 
- - [zombiefactory.sol](https://github.com/Lynk4/CryptoZombies/blob/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/zombiefactory.sol)
- - [zombiefeeding.sol](https://github.com/Lynk4/CryptoZombies/blob/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/zombiefeeding.sol)
-
- ---
+---

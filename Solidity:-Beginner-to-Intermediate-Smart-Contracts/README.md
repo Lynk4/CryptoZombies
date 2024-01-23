@@ -18,3 +18,7 @@ https://cryptozombies.io/en/solidity
  ## [Lesson 2 - Zombies Attack Their Victims](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson2)
 
 ---
+
+## [Lesson 3 - Advanced Solidity Concepts](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson3)
+
+---

@@ -26,3 +26,5 @@ https://cryptozombies.io/en/solidity
 ## [Lesson 4 - Zombie Battle System](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson4)
 
 ---
+
+## [Lesson 5 - ERC721 & Crypto-Collectibles](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson5)

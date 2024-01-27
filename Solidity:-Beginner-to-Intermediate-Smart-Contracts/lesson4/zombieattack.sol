@@ -8,8 +8,7 @@ contract ZombieAttack is ZombieHelper {
 
   function randMod(uint _modulus) internal returns(uint) {
     randNonce++;
-    return uint(keccak256(abi.encodePacked(now, msg.sender, randNonce))) % 
-_modulus;
+    return uint(keccak256(abi.encodePacked(now, msg.sender, randNonce))) % _modulus;
   }
 
   function attack(uint _zombieId, uint _targetId) external ownerOf(_zombieId) {
@@ -21,11 +20,11 @@ _modulus;
       myZombie.level++;
       enemyZombie.lossCount++;
       feedAndMultiply(_zombieId, enemyZombie.dna, "zombie");
-    } // start here
-    else{
+    } else {
+
       myZombie.lossCount++;
       enemyZombie.winCount++;
       _triggerCooldown(myZombie);
   }
 }
-
+}

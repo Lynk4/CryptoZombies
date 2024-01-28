@@ -28,3 +28,8 @@ https://cryptozombies.io/en/solidity
 ---
 
 ## [Lesson 5 - ERC721 & Crypto-Collectibles](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson5)
+
+---
+## [Lesson 6 - App Front-ends & Web3.js](https://github.com/Lynk4/CryptoZombies/tree/main/Solidity%3A-Beginner-to-Intermediate-Smart-Contracts/lesson6)
+
+---
